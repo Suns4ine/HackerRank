@@ -14,7 +14,7 @@ This repository contains my solutions to problems from hackerrank.com. The solut
 ### Core CS
 
 ##### [Algorithms](Algorithms/)
-- [x] `Warmup`
+- [ ] `Warmup`
 - [ ] `Implementation`
 - [ ] `Strings`
 - [ ] `Sorting`
@@ -28,7 +28,6 @@ This repository contains my solutions to problems from hackerrank.com. The solut
 - [ ] `Game Theory`
 - [ ] `NP Complete`
 
-/*
 ##### [Data Structures](Data%Structures/)
 - [ ] `Arrays`
 - [ ] `Trees`
@@ -40,13 +39,13 @@ This repository contains my solutions to problems from hackerrank.com. The solut
 - [ ] `Multiple Choice`
 - [ ] `Trie`
 - [ ] `Advanced`
-*/
+
 ### Tutorials
 
 ##### [30 Days of Code](30%Days%of%Code/)
-- [x] `30 Challenges completed`
+- [ ] `30 Challenges completed`
 
 ##### [Cracking the Coding Interview](Cracking%the%Coding%Interview/)
-- [x] `Data Structures`
-- [x] `Algorithms`
-- [x] `Techniques/Concepts`
+- [ ] `Data Structures`
+- [ ] `Algorithms`
+- [ ] `Techniques/Concepts`
