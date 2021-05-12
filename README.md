@@ -28,6 +28,7 @@ This repository contains my solutions to problems from hackerrank.com. The solut
 - [ ] `Game Theory`
 - [ ] `NP Complete`
 
+/*
 ##### [Data Structures](Data%Structures/)
 - [ ] `Arrays`
 - [ ] `Trees`
@@ -39,7 +40,7 @@ This repository contains my solutions to problems from hackerrank.com. The solut
 - [ ] `Multiple Choice`
 - [ ] `Trie`
 - [ ] `Advanced`
-
+*/
 ### Tutorials
 
 ##### [30 Days of Code](30%Days%of%Code/)
