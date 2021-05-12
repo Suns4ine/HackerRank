@@ -1,5 +1,5 @@
 # Algorithms
-![Algorithms](https://img.shields.io/badge/Challanges-83_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1596-blue.svg)
+![Algorithms](https://img.shields.io/badge/Challanges-1_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-1-blue.svg)
 
 ##### Warmup Challenges
 - [ ] [Solve Me First](Warmup/solve-me-first.swift) `Easy`
