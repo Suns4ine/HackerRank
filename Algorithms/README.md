@@ -28,7 +28,7 @@
 - [ ] [Sock Merchant](Implementation/sock-merchant.swift) `Easy`
 - [x] [Drawing Book](Implementation/drawing-book.playground) `Easy`
 - [ ] [Counting Valleys](Implementation/counting-valleys.swift) `Easy`
-- [ ] [Electronics Shop](Implementation/electronics-shop.swift) `Easy`
+- [x] [Electronics Shop](Implementation/electronics-shop.swift) `Easy`
 - [x] [Cats and a Mouse](Implementation/cats-and-a-mouse.playground) `Easy`
 - [ ] [Forming a Magic Square](Implementation/forming-a-magic-square.swift) `Easy`
 - [ ] [Picking Numbers](Implementation/picking-numbers.swift) `Easy`
@@ -37,16 +37,16 @@
 - [ ] [Designer PDF Viewer](Implementation/designer-pdf-viewer.swift) `Easy`
 - [ ] [Utopian Tree](Implementation/utopian-tree.swift) `Easy`
 - [x] [Angry Professor](Implementation/angry-professor.playground) `Easy`
-- [ ] [Beautiful Days at the Movies](Implementation/beautiful-days-at-the-movies.swift) `Easy`
+- [x] [Beautiful Days at the Movies](Implementation/beautiful-days-at-the-movies.swift) `Easy`
 - [ ] [Viral Advertising](Implementation/viral-advertising.swift) `Easy`
 - [ ] [Save the Prisoner!](Implementation/save-the-prisoner.swift) `Easy`
 - [ ] [Circular Array Rotation](Implementation/circular-array-rotation.swift) `Easy`
 - [ ] [Sequence Equation](Implementation/sequence-equation.swift) `Easy`
 - [x] [Jumping on the Clouds: Revisited](Implementation/jumping-on-the-clouds:-revisited.playground) `Easy`
-- [ ] [Find Digits](Implementation/find-digits.swift) `Easy`
+- [x] [Find Digits](Implementation/find-digits.swift) `Easy`
 - [ ] [Extra Long Factorials](Implementation/extra-long-factorials.swift) `Medium`
 - [ ] [Append and Delete](Implementation/append-and-delete.swift) `Easy`
-- [ ] [Sherlock and Squares](Implementation/sherlock-and-squares.swift) `Easy`
+- [x] [Sherlock and Squares](Implementation/sherlock-and-squares.swift) `Easy`
 - [ ] [Library Fine](Implementation/library-fine.swift) `Easy`
 - [ ] [Cut the sticks](Implementation/cut-the-sticks.swift) `Easy`
 - [ ] [Non-Divisible Subset](Implementation/non-divisible-subset.swift) `Medium`
