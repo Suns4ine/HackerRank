@@ -14,10 +14,10 @@ This repository contains my solutions to problems from hackerrank.com. The solut
 ### Core CS
 
 ##### [Algorithms](Algorithms/)
-- [ ] `Warmup`
-- [ ] `Implementation`
+- [x] `Warmup`
+- [x] `Implementation`
 - [ ] `Strings`
-- [ ] `Sorting`
+- [x] `Sorting`
 - [ ] `Search`
 - [ ] `Graph Theory`
 - [ ] `Greedy`

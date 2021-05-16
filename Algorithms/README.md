@@ -2,47 +2,47 @@
 ![Algorithms](https://img.shields.io/badge/Challanges-18_Complete-orange.svg) ![Points](https://img.shields.io/badge/Points-162-blue.svg)
 
 ##### Warmup Challenges
-- [x] [Solve Me First](Warmup/solve-me-first.playground) `Easy`
-- [x] [Simple Array Sum](Warmup/simple-array-sum.playground) `Easy`
-- [x] [Compare the Triplets](Warmup/compare-the-triplets.playground) `Easy`
-- [x] [A Very Big Sum](Warmup/a-very-big-sum.playground) `Easy`
-- [x] [Diagonal Difference](Warmup/diagonal-difference.playground) `Easy`
-- [x] [Plus Minus](Warmup/plus-minus.playground) `Easy`
-- [x] [Staircase](Warmup/staircase.playground) `Easy`
-- [x] [Mini-Max Sum](Warmup/mini-max-sum.playground) `Easy`
-- [x] [Time Conversion](Warmup/time-conversion.playground) `Easy`
-- [x] [Birthday Cake Candles](Warmup/birthday-cake-candles.playground) `Easy`
+- [x] [Solve Me First](Warmup/solve-me-first.swift) `Easy`
+- [x] [Simple Array Sum](Warmup/simple-array-sum.swift) `Easy`
+- [x] [Compare the Triplets](Warmup/compare-the-triplets.swift) `Easy`
+- [x] [A Very Big Sum](Warmup/a-very-big-sum.swift) `Easy`
+- [x] [Diagonal Difference](Warmup/diagonal-difference.swift) `Easy`
+- [x] [Plus Minus](Warmup/plus-minus.swift) `Easy`
+- [x] [Staircase](Warmup/staircase.swift) `Easy`
+- [x] [Mini-Max Sum](Warmup/mini-max-sum.swift) `Easy`
+- [x] [Time Conversion](Warmup/time-conversion.swift) `Easy`
+- [x] [Birthday Cake Candles](Warmup/birthday-cake-candles.swift) `Easy`
 
 ##### Implementation Challenges
-- [x] [Grading Students](Implementation/grading-students.playground) `Easy`
-- [x] [Apple and Orange](Implementation/apple-and-orange.playground) `Easy`
+- [x] [Grading Students](Implementation/grading-students.swift) `Easy`
+- [x] [Apple and Orange](Implementation/apple-and-orange.swift) `Easy`
 - [ ] [Kangaroo](Implementation/kangaroo.swift) `Easy`
-- [x] [Subarray Division](Implementation/subarray-division.playground) `Easy` 
+- [x] [Subarray Division](Implementation/subarray-division.swift) `Easy` 
 - [ ] [Between Two Sets](Implementation/between-two-sets.swift) `Easy`
-- [x] [Breaking the Records](Implementation/breaking-the-records.playground) `Easy`
+- [x] [Breaking the Records](Implementation/breaking-the-records.swift) `Easy`
 - [ ] [Birthday Chocolate](Implementation/birthday-chocolate.swift) `Easy`
 - [ ] [Divisible Sum Pairs](Implementation/divisible-sum-pairs.swift) `Easy`
 - [ ] [Migratory Birds](Implementation/migratory-birds.swift) `Easy`
 - [ ] [Day of the Programmer](Implementation/day-of-the-programmer.swift) `Easy`
-- [x] [Bon Appétit](Implementation/bon-appetit.playground) `Easy`
+- [x] [Bon Appétit](Implementation/bon-appetit.swift) `Easy`
 - [ ] [Sock Merchant](Implementation/sock-merchant.swift) `Easy`
-- [x] [Drawing Book](Implementation/drawing-book.playground) `Easy`
+- [x] [Drawing Book](Implementation/drawing-book.swift) `Easy`
 - [ ] [Counting Valleys](Implementation/counting-valleys.swift) `Easy`
 - [x] [Electronics Shop](Implementation/electronics-shop.swift) `Easy`
-- [x] [Cats and a Mouse](Implementation/cats-and-a-mouse.playground) `Easy`
+- [x] [Cats and a Mouse](Implementation/cats-and-a-mouse.swift) `Easy`
 - [ ] [Forming a Magic Square](Implementation/forming-a-magic-square.swift) `Easy`
 - [ ] [Picking Numbers](Implementation/picking-numbers.swift) `Easy`
 - [ ] [Climbing the Leaderboard](Implementation/climbing-the-leaderboard.swift) `Easy`
 - [ ] [The Hurdle Race](Implementation/the-hurdle-race.swift) `Easy`
 - [ ] [Designer PDF Viewer](Implementation/designer-pdf-viewer.swift) `Easy`
 - [ ] [Utopian Tree](Implementation/utopian-tree.swift) `Easy`
-- [x] [Angry Professor](Implementation/angry-professor.playground) `Easy`
+- [x] [Angry Professor](Implementation/angry-professor.swift) `Easy`
 - [x] [Beautiful Days at the Movies](Implementation/beautiful-days-at-the-movies.swift) `Easy`
 - [ ] [Viral Advertising](Implementation/viral-advertising.swift) `Easy`
 - [ ] [Save the Prisoner!](Implementation/save-the-prisoner.swift) `Easy`
 - [ ] [Circular Array Rotation](Implementation/circular-array-rotation.swift) `Easy`
 - [ ] [Sequence Equation](Implementation/sequence-equation.swift) `Easy`
-- [x] [Jumping on the Clouds: Revisited](Implementation/jumping-on-the-clouds:-revisited.playground) `Easy`
+- [x] [Jumping on the Clouds: Revisited](Implementation/jumping-on-the-clouds-revisited.swift) `Easy`
 - [x] [Find Digits](Implementation/find-digits.swift) `Easy`
 - [ ] [Extra Long Factorials](Implementation/extra-long-factorials.swift) `Medium`
 - [ ] [Append and Delete](Implementation/append-and-delete.swift) `Easy`
@@ -103,7 +103,7 @@
 - [ ] [Counting Sort 2](Sorting/counting-sort-2.swift) `Easy`
 - [ ] [The Full Counting Sort](Sorting/the-full-counting-sort.swift) `Medium`
 - [ ] [Closest Numbers](Sorting/closest-numbers.swift) `Easy`
-- [x] [Find the Median](Sorting/find-the-median.playground) `Easy`
+- [x] [Find the Median](Sorting/find-the-median.swift) `Easy`
 - [ ] [Insertion Sort Advanced Analysis](Sorting/) `Advanced`
 - [ ] [Fraudulent Activity Notifications](Sorting/fraudulent-activity-notifications.swift) `Medium`
 - [ ] [Lily's Homework](Sorting/lilys-homework.swift) `Medium`

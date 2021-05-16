@@ -12,7 +12,6 @@ func squares(a: Int, b: Int) -> Int {
     var numb = 1
     
     while (numb * numb <= b) {
-        print(numb * numb)
         result = numb * numb >= a && numb * numb <= b ? result + 1 : result
         numb += 1
     }
