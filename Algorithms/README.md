@@ -27,11 +27,11 @@
 - [x] [Bon Appétit](Implementation/bon-appetit.swift) `Easy`
 - [ ] [Sock Merchant](Implementation/sock-merchant.swift) `Easy`
 - [x] [Drawing Book](Implementation/drawing-book.swift) `Easy`
-- [ ] [Counting Valleys](Implementation/counting-valleys.swift) `Easy`
+- [x] [Counting Valleys](Implementation/counting-valleys.swift) `Easy`
 - [x] [Electronics Shop](Implementation/electronics-shop.swift) `Easy`
 - [x] [Cats and a Mouse](Implementation/cats-and-a-mouse.swift) `Easy`
 - [ ] [Forming a Magic Square](Implementation/forming-a-magic-square.swift) `Easy`
-- [ ] [Picking Numbers](Implementation/picking-numbers.swift) `Easy`
+- [x] [Picking Numbers](Implementation/picking-numbers.swift) `Easy`
 - [ ] [Climbing the Leaderboard](Implementation/climbing-the-leaderboard.swift) `Easy`
 - [ ] [The Hurdle Race](Implementation/the-hurdle-race.swift) `Easy`
 - [ ] [Designer PDF Viewer](Implementation/designer-pdf-viewer.swift) `Easy`
