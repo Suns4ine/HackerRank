@@ -35,7 +35,7 @@
 - [ ] [Climbing the Leaderboard](Implementation/climbing-the-leaderboard.swift) `Easy`
 - [ ] [The Hurdle Race](Implementation/the-hurdle-race.swift) `Easy`
 - [ ] [Designer PDF Viewer](Implementation/designer-pdf-viewer.swift) `Easy`
-- [ ] [Utopian Tree](Implementation/utopian-tree.swift) `Easy`
+- [x] [Utopian Tree](Implementation/utopian-tree.swift) `Easy`
 - [x] [Angry Professor](Implementation/angry-professor.swift) `Easy`
 - [x] [Beautiful Days at the Movies](Implementation/beautiful-days-at-the-movies.swift) `Easy`
 - [ ] [Viral Advertising](Implementation/viral-advertising.swift) `Easy`
@@ -55,7 +55,7 @@
 - [ ] [Equalize the Array](Implementation/equalize-the-array.swift) `Easy`
 - [ ] [Queen's Attack II](Implementation/queens-attack-2.swift) `Medium`
 - [ ] [ACM ICPC Team](Implementation/acm-icpc-team.swift) `Easy`
-- [ ] [Taum and B'day](Implementation/taum-and-bday.swift) `Easy`
+- [x] [Taum and B'day](Implementation/taum-and-bday.swift) `Easy`
 - [ ] [Organizing Containers of Balls](Implementation/organizing-containers-of-balls.swift) `Medium`
 - [ ] [Encryption](Implementation/encryption.swift) `Medium`
 - [ ] [Bigger is Greater](Implementation/) `Medium`
