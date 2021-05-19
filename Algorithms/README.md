@@ -34,7 +34,7 @@
 - [x] [Picking Numbers](Implementation/picking-numbers.swift) `Easy`
 - [ ] [Climbing the Leaderboard](Implementation/climbing-the-leaderboard.swift) `Easy`
 - [ ] [The Hurdle Race](Implementation/the-hurdle-race.swift) `Easy`
-- [ ] [Designer PDF Viewer](Implementation/designer-pdf-viewer.swift) `Easy`
+- [x] [Designer PDF Viewer](Implementation/designer-pdf-viewer.swift) `Easy`
 - [x] [Utopian Tree](Implementation/utopian-tree.swift) `Easy`
 - [x] [Angry Professor](Implementation/angry-professor.swift) `Easy`
 - [x] [Beautiful Days at the Movies](Implementation/beautiful-days-at-the-movies.swift) `Easy`
